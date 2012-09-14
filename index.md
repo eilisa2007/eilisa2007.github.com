@@ -7,11 +7,9 @@ tagline:
 {% include JB/setup %}
 
 
-# What you can find here ?
+# 这里有什么
 ---
-This is a informative/technology/computer oriented blog. Infact I love to share knowledge in words.
-
-I am no perfectionist in this regard, nor I think that I am some special personality in this tech field. I just want to share my knowledge with you all people. There is comment section also included in the posts section so that you can easily discuss the subject and point out my mistakes if there is any. However I will fully try to minimize that at any cost. 
+这是一个记录个人IT学习的博客.
 
 
 <br />
